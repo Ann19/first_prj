@@ -1,2 +1,2 @@
 # first_prj
-My first prpject
+My first project
